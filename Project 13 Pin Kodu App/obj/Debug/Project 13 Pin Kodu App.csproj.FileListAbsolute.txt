@@ -1,0 +1,6 @@
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\bin\Debug\Project 13 Pin Kodu App.exe.config
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\bin\Debug\Project 13 Pin Kodu App.exe
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\bin\Debug\Project 13 Pin Kodu App.pdb
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\obj\Debug\Project 13 Pin Kodu App.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\obj\Debug\Project 13 Pin Kodu App.exe
+c:\users\mrt_b\source\repos\Project 13 Pin Kodu App\Project 13 Pin Kodu App\obj\Debug\Project 13 Pin Kodu App.pdb
